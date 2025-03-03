@@ -1,1 +1,1 @@
-# yduts
+# ScholarAI
