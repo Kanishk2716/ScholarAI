@@ -11,3 +11,7 @@ numpy
 pandas
 Requests
 poppler-utils
+streamlit_lottie
+streamlit-on-Hover-tabs
+youtube-transcript-api
+firebase_admin
